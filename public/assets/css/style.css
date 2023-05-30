@@ -1,0 +1,88 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(247, 247, 247);
+}
+
+textarea
+{
+    resize: none;
+}
+
+#search
+{
+    display: none;
+}
+
+.search_link
+{
+    cursor: pointer;
+}
+
+.hide_search_link
+{
+    display: none;
+    cursor: pointer;
+}
+
+.add_link
+{   
+    text-align: center;
+    color: #0056B3;
+}
+
+    .add_link:hover
+    {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+.hide_link
+{   
+    text-align: center;
+    color: #0056B3;
+}
+    
+    .hide_link:hover
+    {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+.add_form
+{
+    display: none;
+}
+
+.tasks
+{
+    margin-top: 100px;
+}
+
+.settings_link
+{   
+    color: #0056B3;
+}
+    
+    .settings_link:hover
+    {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+.hide_settings_link
+{   
+    color: #0056B3;
+}
+        
+    .hide_settings_link:hover
+    {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+.settings_image
+{
+    display: none;
+}
